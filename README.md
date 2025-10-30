@@ -2,7 +2,7 @@
 
 Part of IBM AI Engineering Professional Certificate — Capstone Project.
 
-This project demonstrates the **development of deep learning models** for **classifying satellite imagery into different land types** for ex Land. It covers key AI engineering concepts including **data preprocessing, model development, transfer learning, and performance evaluation.**
+This project demonstrates the **development of deep learning models** for **classifying satellite imagery into different land types** . It covers key AI engineering concepts including **data preprocessing, model development, transfer learning, and performance evaluation.**
 
 **🚀 Project Overview:**
 The project is divided into several key phases, each highlighting a specific aspect of deep learning development:
