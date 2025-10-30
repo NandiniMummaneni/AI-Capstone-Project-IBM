@@ -9,18 +9,22 @@ The project is divided into several key phases, each highlighting a specific asp
 
 **Phase 1: Data Preprocessing and Augmentation**
 In this phase, geospatial image datasets were loaded, normalized, and augmented to improve model generalization. Custom data loaders were implemented for efficient memory management, and both generator-based and memory-based approaches were explored.
+
 **Output:** Preprocessed and augmented datasets ready for CNN and Vision Transformer training.
 
 **Phase 2: CNN Model Development**
 Convolutional Neural Networks were designed and trained using Keras and PyTorch. Model performance was monitored using metrics such as accuracy, precision, and recall to ensure proper learning and generalization.
+
 **Output:** Trained CNN models with evaluated performance metrics, demonstrating their capability in land classification.
 
 **Phase 3: Vision Transformer Implementation and Transfer Learning**
 Pre-trained Vision Transformer models were fine-tuned for the land classification task. Their performance was compared against CNN models to evaluate the effectiveness of transformers in this domain.
+
 **Output:** Fine-tuned Vision Transformer models and comparative analysis with CNNs.
 
 **Phase 4:** Model Evaluation and Reporting
 Models were evaluated using standard metrics such as accuracy, F1-score, and AU-ROC. Insights were documented in a professional technical report, highlighting methodology, results, and future applications.
+
 **Output:** Comprehensive report summarizing model performance and key learnings.
 
 **🛠️ Technologies Used:**
