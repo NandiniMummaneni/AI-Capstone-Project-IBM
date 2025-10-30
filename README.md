@@ -24,11 +24,11 @@ Models were evaluated using standard metrics such as accuracy, F1-score, and AU-
 **Output:** Comprehensive report summarizing model performance and key learnings.
 
 **🛠️ Technologies Used:**
-Python 3.x
-Keras
-PyTorch
-TensorFlow
-NumPy, Pandas, Matplotlib, Seaborn
+Python 3.x,
+Keras,
+PyTorch,
+TensorFlow,
+NumPy, Pandas, Matplotlib, Seaborn,
 scikit-learn
 
 **💡 This Project Demonstrates:**
